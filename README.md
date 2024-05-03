@@ -10,10 +10,10 @@ The project is still on the development stage **3-05-2024**
 
 ## Table of contents
 1. Import The Data into Power BI
-    -Load and Transform the order Table
-    -Import and Transform the products Dimension Table
-    -Import and Transform the store Dimension Table
-    -import and Transform the customer table
+    - Load and Transform the order Table
+    - Import and Transform the products Dimension Table
+    - Import and Transform the store Dimension Table
+    - Import and Transform the customer table
 
 
 
