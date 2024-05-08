@@ -14,7 +14,41 @@ The project is still on the development stage **3-05-2024**
     - Import and Transform the products Dimension Table
     - Import and Transform the store Dimension Table
     - Import and Transform the customer table
+2. Creating The Data Model
+    - created a date table with DAX
+    - built the star schema data model
+    - created a measure table
+    - created key measures like
+      - Total Orders
+      - Total Revenue
+      - Total Profit
+      - Total Customers
+      - Total Quantity
+      - Profit YTD
+      - Revenue YTD
+    - created date and geography hierarchies
+      - Created a date hierarchy using the following levels:
+        - Start of Year
+        - Start of Quarter
+        - Start of Month
+        - Start of Week
+        - Date
+      - Created a new calculated column in the Stores table called Country 
+      - Created a new calculated column in the Stores table called Geography
+      - Ensured that the following columns have the correct data category        assigned, as follows
+        - Region : Continent
+        - Country : Country
+        - Country Region : State or Province
+      - Created a Geography hierarchy using the following levels:
+        - Region
+        - Country
+        - Country Region
 
+
+
+ 
+        
+        
 
 
 ## File Structure
