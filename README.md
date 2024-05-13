@@ -67,7 +67,7 @@ The project is still on the development stage **3-05-2024**
       - Added a date slicer to allow users to filter the page by year, using the between slicer style.
 - This is how the Report page and the Customer Detail page looks like after the above actions
 
-![Report page](image.png)
+![Report page](image-1.png)
 
 
   
