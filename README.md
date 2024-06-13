@@ -121,7 +121,50 @@ The project is still on the development stage **3-05-2024**
     -  Added navigation buttons for the individual report pages.
     ![navigation buttons for each report page](image-12.png)
 
+  9. For milestone_10 , after connecting to the sql database 'orders-db' in the azure database, run the following files in the link below
 
+  ```
+  question_1.sql
+  
+  ```
+  ```
+  questtion_1.csv
+
+  ```
+  ```
+  question_2.sql
+
+  ```
+  ```
+  question_2.csv
+
+  ```
+  ```
+  question_3.sql
+
+  ```
+  ```
+  question_3.csv
+
+  ```
+  ```
+  question_4.sql
+
+  ```
+  ```
+  question_4.csv
+
+  ```
+  ```
+  question_5.sql
+
+  ```
+  ```
+  question_5.csv
+
+  ```
+  ```
+  data_analytics_views.sql
   
         
         
