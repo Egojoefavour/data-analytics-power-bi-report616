@@ -128,18 +128,40 @@ The project is still on the development stage **3-05-2024**
   
   ```
 
-  
-  
-
-  
-        
-        
-
-
 ## File Structure
-[text](tree.txt)
-
-
+```
+Data-Analytics-Power-Bi-Report
+C:.
+|   Data_Analytics_Power_BI_Report.pbix
+|   README.md
+|   
+|   
++---question_sql_csv_files
+|       data_analytics_view.sql
+|       question_1.csv
+|       question_1.sql
+|       question_2.csv
+|       question_2.sql
+|       question_3.csv
+|       question_3.sql
+|       question_4.csv
+|       question_4.sql
+|       question_5.csv
+|       question_5.sql
+|       
+\---report_page_screenshot
+        image-1.png
+        image-10.png
+        image-11.png
+        image-12.png
+        image-2.png
+        image-6.png
+        image-7.png
+        image-8.png
+        image-9.png
+        image.png
+        
+```
 
 ## Installation and Usage
 clone the repository by running the following command inside a terminal
