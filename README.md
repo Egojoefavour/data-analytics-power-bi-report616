@@ -66,7 +66,7 @@ The project is still on the development stage **3-05-2024**
     - Adding a Date slicer
       - Added a date slicer to allow users to filter the page by year, using the between slicer style.
 - This is how the  Customer Detail Report page  looks like after the above   actions
-  ![customer detail report page](C:\Users\GODLINESS\Desktop\data-analytics-power-bi-report616\report_page_screenshot\image-2.png)
+  ![customer detail report page](report_page_screenshot/image-1.png)
 
 5. Creating an Executive Summary Page
    - Created Three Card visuals for Total Revenue, Total Orders and Total Profit measures with three shapes acting as the card background
