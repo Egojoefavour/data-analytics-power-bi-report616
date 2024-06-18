@@ -137,6 +137,7 @@ The project is still on the development stage **3-05-2024**
 
 
 ## File Structure
+[text](tree.txt)
 
 
 
