@@ -77,7 +77,7 @@ The project is still on the development stage **3-05-2024**
    - Added KPI visuals
     - Created KPIs for Quarterly Revenue, Orders and Profit using Targets, equal to 5% growth in each measure compared to the previous quarter
    - This is how the the Executive summary Report page looks like after the above actions
-    ![Executive Summary report page Page](report_page_screenshot\image-6.png)
+  ![Executive summary report page](report_page_screenshot/image-6.png)
 
 6. Creating a Product detail report page
    - Added a set of three gauges visuals, showing the current-quarter performance of Orders, Revenue and Profit against a quarterly target of 10% quarter-on-quarter growth in all three metrics.
@@ -98,18 +98,18 @@ The project is still on the development stage **3-05-2024**
      - Y-Axis should be Orders[Total Quantity]
      - Legend should be Products[Category]
    - This is how the the Product Detail Report page looks like after the above actions 
-    ![product deatail report page](report_page_screenshot\image-7.png)
+   ![product detail report page](report_page_screenshot/image-7.png)
    -  created a slicer toolbar
-     ![slicer toolbar highlighted](report_page_screenshot\image-8.png)
+    ![slicer toolbar highlighted](report_page_screenshot/image-8.png)
   7. Creating a store map page
      - Added a map visual with location field set to geography hierachy and bubble size set to profit YTD
      - Added a country slicer with the slicer field set to and format section set as Tile
    - This is how the the Store Map Report page looks like after the above actions
-     ![Store Map REport page ](report_page_screenshot\image-9.png)
+    ![store map report page](report_page_screenshot/image-9.png)
      - Added a store drill through page 
-      ![Store drillthrough page](report_page_screenshot\image-10.png)
+     ![store drill through page](report_page_screenshot/image-10.png)
      - Added a store Tooltip page
-      ![Store Tooltip page](report_page_screenshot\image-11.png)
+     ![store tooltip page](report_page_screenshot/image-11.png)
       - Added a store Tooltip page that will make it possible to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map
   8. Fixing Cross-Filtering
     - Executive Summary Page
@@ -119,7 +119,7 @@ The project is still on the development stage **3-05-2024**
     - Product Detail Page
       - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
     -  Added navigation buttons for the individual report pages.
-    ![navigatn buttns for report page](report_page_screenshot\image-12.png)
+    ![navigatn buttns for report page ](report_page_screenshot/image-12.png)
 
   9. For milestone_10 , after connecting to the sql database 'orders-db' in the azure database, run the following files in the link below
 
