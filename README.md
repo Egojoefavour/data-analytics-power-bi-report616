@@ -66,7 +66,7 @@ The project is still on the development stage **3-05-2024**
     - Adding a Date slicer
       - Added a date slicer to allow users to filter the page by year, using the between slicer style.
 - This is how the  Customer Detail Report page  looks like after the above actions
-  ![customer detail report page](image-2.png)
+  ![customer detail report page](report_page_screenshot\image-2.png)
 
 5. Creating an Executive Summary Page
    - Created Three Card visuals for Total Revenue, Total Orders and Total Profit measures with three shapes acting as the card background
@@ -77,7 +77,7 @@ The project is still on the development stage **3-05-2024**
    - Added KPI visuals
     - Created KPIs for Quarterly Revenue, Orders and Profit using Targets, equal to 5% growth in each measure compared to the previous quarter
    - This is how the the Executive summary Report page looks like after the above actions
-    ![Executive Summary report page Page](image-6.png)
+    ![Executive Summary report page Page](report_page_screenshot\image-6.png)
 
 6. Creating a Product detail report page
    - Added a set of three gauges visuals, showing the current-quarter performance of Orders, Revenue and Profit against a quarterly target of 10% quarter-on-quarter growth in all three metrics.
@@ -98,18 +98,18 @@ The project is still on the development stage **3-05-2024**
      - Y-Axis should be Orders[Total Quantity]
      - Legend should be Products[Category]
    - This is how the the Product Detail Report page looks like after the above actions 
-    ![product deatail report page](image-7.png)
+    ![product deatail report page](report_page_screenshot\image-7.png)
    -  created a slicer toolbar
-     ![slicer toolbar highlighted](image-8.png)
+     ![slicer toolbar highlighted](report_page_screenshot\image-8.png)
   7. Creating a store map page
      - Added a map visual with location field set to geography hierachy and bubble size set to profit YTD
      - Added a country slicer with the slicer field set to and format section set as Tile
    - This is how the the Store Map Report page looks like after the above actions
-     ![Store Map REport page ](image-9.png)
+     ![Store Map REport page ](report_page_screenshot\image-9.png)
      - Added a store drill through page 
-      ![Store drillthrough page](image-10.png)
+      ![Store drillthrough page](report_page_screenshot\image-10.png)
      - Added a store Tooltip page
-      ![Store Tooltip page](image-11.png)
+      ![Store Tooltip page](report_page_screenshot\image-11.png)
       - Added a store Tooltip page that will make it possible to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map
   8. Fixing Cross-Filtering
     - Executive Summary Page
@@ -119,52 +119,18 @@ The project is still on the development stage **3-05-2024**
     - Product Detail Page
       - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
     -  Added navigation buttons for the individual report pages.
-    ![navigation buttons for each report page](image-12.png)
+    ![navigatn buttns for report page](report_page_screenshot\image-12.png)
 
   9. For milestone_10 , after connecting to the sql database 'orders-db' in the azure database, run the following files in the link below
 
   ```
-  question_1.sql
+  question_sql_csv_files
   
   ```
-  ```
-  questtion_1.csv
 
-  ```
-  ```
-  question_2.sql
+  
+  
 
-  ```
-  ```
-  question_2.csv
-
-  ```
-  ```
-  question_3.sql
-
-  ```
-  ```
-  question_3.csv
-
-  ```
-  ```
-  question_4.sql
-
-  ```
-  ```
-  question_4.csv
-
-  ```
-  ```
-  question_5.sql
-
-  ```
-  ```
-  question_5.csv
-
-  ```
-  ```
-  data_analytics_views.sql
   
         
         
